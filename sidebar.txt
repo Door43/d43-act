@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[act:home|Door43 (act)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-act|d43-act repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-act/archive/master.zip|d43-act.zip]]
+
+**Recent Changes**
+{{changes>ns = act}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/act|Ethnologue data]]
+
